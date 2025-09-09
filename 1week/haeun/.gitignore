@@ -1,0 +1,11 @@
+node_modules/
+
+# Local
+.DS_Store
+*.local
+*.log*
+
+# Dist
+
+dist/
+
